@@ -43,6 +43,7 @@ for prov in results:
     provider_ = {}
     provider_['season_list'] = []
     provider_name = prov.text
+    print(provider_name)
     jsonurl = BASEURL+session_str+datalink+'.json'
     djson = str(requests.get(jsonurl).text)
     data = json.loads(djson)
@@ -56,13 +57,13 @@ for prov in results:
             season_[part_name] = part_
         provider_['season_list'].append({"name":season_name,"season":season_})
             # provider_[season_name] = season_
-    provider_list = {"name":provider_name,"provider_list":provider_,"flagnew":0}
+    provider_list = {"name":provider_name,"provider_":provider_,"flagnew":0}
     Film['provider_list'].append(provider_)  #provider_list #= provider_ #[season_name][part_name] = {'name':part_name,'part_url':part_url}
     
     with open('output.json', 'w') as json_file:
         json.dump(Film, json_file)
 
-    exit()
+
 #results = soup.select('div[data-link]')
 
 print(session_str)
