@@ -54,11 +54,10 @@ for prov in results:
             #part_url = part['file']
             part_name = part['comment'][-1]
             season_[part_name] = part_
-            provider_['season_list'].append({"name":season_name,"season":season_})
+        provider_['season_list'].append({"name":season_name,"season":season_})
             # provider_[season_name] = season_
-            provider_list = {"name":provider_name,"provider_list":provider_,"flagnew":0}
-            
-            Film['provider_list'].append(provider_)  #provider_list #= provider_ #[season_name][part_name] = {'name':part_name,'part_url':part_url}
+    provider_list = {"name":provider_name,"provider_list":provider_,"flagnew":0}
+    Film['provider_list'].append(provider_)  #provider_list #= provider_ #[season_name][part_name] = {'name':part_name,'part_url':part_url}
     
     with open('output.json', 'w') as json_file:
         json.dump(Film, json_file)
