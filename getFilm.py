@@ -4,6 +4,7 @@ import requests
 import re
 import base64
 import json
+import mod.tolatin as convertLatin
 
 #http://kino-dom.tv/fec542a02ba81b9fb2bf63eaeda613cf/play/The-Outpost-2018-LostFilm.txt.json
 BASEURL ="http://kino-dom.tv/"
@@ -24,14 +25,14 @@ side_page_blocks = soup.find("div",class_ = "post-content").find("div",class_="p
 title = side_page_blocks.text
 print(title)
 Film['name'] = title
-Film['provider_list'] = []
+
 #img
 # div[class=post-info] -> img[class=b-img-radius] src
 side_page_blocks = soup.find("div",class_ = "post-info").find("img",class_="b-img-radius")
 img_url = side_page_blocks.get('src')
 imgB64 = base64.b64encode(requests.get(img_url).content) # img
 provider = {}
-
+Film['img'] = img_url 
 #Film['imgB64'] = imgB64
 
 #get provider
@@ -42,7 +43,7 @@ for prov in results:
     datalink = prov.get('data-link')
     provider_ = {}
     provider_['name'] = prov.text
-    provider_['season_list'] = []
+    provider_key = convertLatin.translit1(prov.text)
     # provider_name = prov.text
 
     jsonurl = BASEURL+session_str+datalink+'.json'
@@ -50,20 +51,22 @@ for prov in results:
     data = json.loads(djson)
     for season in data['playlist']:
         season_ = {}
-        season_['name'] = season['comment'][-1]
-        season_['part_list'] = []
+        season_['name'] = " Season "+season['comment'][-1]
+        season_['flag_new'] = 0 
+        seasonkey = "season_"+season['comment'][-1]
+        #season_['part_list'] = []
         for part in season['playlist']:
             part_ = {"name":part['comment'][-1],"url":part['file'],"flag":"0"}
             #part_url = part['file']
             part_name = part['comment'][-1]
-            season_['part_list'].append(part_)
+            season_["part_"+part['comment'][-1]] = part_
         
-        provider_['season_list'].append(season_)
+        provider_[seasonkey] = season_
             # provider_[season_name] = season_
    
-    Film['provider_list'].append(provider_)  #provider_list #= provider_ #[season_name][part_name] = {'name':part_name,'part_url':part_url}
+    Film[provider_key]=provider_  #provider_list #= provider_ #[season_name][part_name] = {'name':part_name,'part_url':part_url}
     
-with open('output.json', 'w',encoding='utf-8') as json_file:
+with open('output_new.json', 'w') as json_file:
     json.dump(Film, json_file)
 
 

@@ -2,392 +2,397 @@
     "name": "Black Mirror",
     "provider_list": [
         {
+            "name": "Кубик в Кубе",
             "season_list": [
                 {
                     "name": "1",
-                    "season": {
-                        "1": {
+                    "part_list": [
+                        {
                             "name": "1",
                             "url": "http://wx15.cdnlast.com/share/kino-dom/09b04204b9eefffed6509c7e8a5034db/Schernoe.zerkalo/s01e01_[720p,480,360].mp4",
                             "flag": "0"
                         },
-                        "2": {
+                        {
                             "name": "2",
                             "url": "http://wx15.cdnlast.com/share/kino-dom/09b04204b9eefffed6509c7e8a5034db/Schernoe.zerkalo/s01e02_[720p,480,360].mp4",
                             "flag": "0"
                         },
-                        "3": {
+                        {
                             "name": "3",
                             "url": "http://wx15.cdnlast.com/share/kino-dom/09b04204b9eefffed6509c7e8a5034db/Schernoe.zerkalo/s01e03_[720p,480,360].mp4",
                             "flag": "0"
                         }
-                    }
+                    ]
                 },
                 {
                     "name": "2",
-                    "season": {
-                        "1": {
+                    "part_list": [
+                        {
                             "name": "1",
                             "url": "http://wx15.cdnlast.com/share/kino-dom/09b04204b9eefffed6509c7e8a5034db/Schernoe.zerkalo/s02e01_[720p,480,360].mp4",
                             "flag": "0"
                         },
-                        "2": {
+                        {
                             "name": "2",
                             "url": "http://wx15.cdnlast.com/share/kino-dom/09b04204b9eefffed6509c7e8a5034db/Schernoe.zerkalo/s02e02_[720p,480,360].mp4",
                             "flag": "0"
                         },
-                        "3": {
+                        {
                             "name": "3",
                             "url": "http://wx15.cdnlast.com/share/kino-dom/09b04204b9eefffed6509c7e8a5034db/Schernoe.zerkalo/s02e03_[720p,480,360].mp4",
                             "flag": "0"
                         }
-                    }
+                    ]
                 },
                 {
                     "name": "3",
-                    "season": {
-                        "0": {
+                    "part_list": [
+                        {
                             "name": "0",
                             "url": "http://wx15.cdnlast.com/share/kino-dom/09b04204b9eefffed6509c7e8a5034db/Schernoe.zerkalo/s03e00_[720p,480,360].mp4",
                             "flag": "0"
                         },
-                        "1": {
+                        {
                             "name": "1",
                             "url": "http://wx12.cdnlast.com/share/kino-dom/09b04204b9eefffed6509c7e8a5034db/Schernoe.zerkalo/s03e01_[720p,480,360].mp4",
                             "flag": "0"
                         },
-                        "2": {
+                        {
                             "name": "2",
                             "url": "http://wx12.cdnlast.com/share/kino-dom/09b04204b9eefffed6509c7e8a5034db/Schernoe.zerkalo/s03e02_[720p,480,360].mp4",
                             "flag": "0"
                         },
-                        "3": {
+                        {
                             "name": "3",
                             "url": "http://wx12.cdnlast.com/share/kino-dom/09b04204b9eefffed6509c7e8a5034db/Schernoe.zerkalo/s03e03_[720p,480,360].mp4",
                             "flag": "0"
                         },
-                        "4": {
+                        {
                             "name": "4",
                             "url": "http://wx12.cdnlast.com/share/kino-dom/09b04204b9eefffed6509c7e8a5034db/Schernoe.zerkalo/s03e04_[720p,480,360].mp4",
                             "flag": "0"
                         },
-                        "5": {
+                        {
                             "name": "5",
                             "url": "http://wx12.cdnlast.com/share/kino-dom/09b04204b9eefffed6509c7e8a5034db/Schernoe.zerkalo/s03e05_[720p,480,360].mp4",
                             "flag": "0"
                         },
-                        "6": {
+                        {
                             "name": "6",
                             "url": "http://wx12.cdnlast.com/share/kino-dom/09b04204b9eefffed6509c7e8a5034db/Schernoe.zerkalo/s03e06_[720p,480,360].mp4",
                             "flag": "0"
                         }
-                    }
+                    ]
                 },
                 {
                     "name": "4",
-                    "season": {
-                        "1": {
+                    "part_list": [
+                        {
                             "name": "1",
                             "url": "http://wx12.cdnlast.com/share/kino-dom/09b04204b9eefffed6509c7e8a5034db/Schernoe.zerkalo/s04e01_[720p,480,].mp4",
                             "flag": "0"
                         },
-                        "2": {
+                        {
                             "name": "2",
                             "url": "http://wx12.cdnlast.com/share/kino-dom/09b04204b9eefffed6509c7e8a5034db/Schernoe.zerkalo/s04e02_[720p,480,].mp4",
                             "flag": "0"
                         },
-                        "3": {
+                        {
                             "name": "3",
                             "url": "http://wx12.cdnlast.com/share/kino-dom/09b04204b9eefffed6509c7e8a5034db/Schernoe.zerkalo/s04e03_[720p,480,].mp4",
                             "flag": "0"
                         },
-                        "4": {
+                        {
                             "name": "4",
                             "url": "http://wx12.cdnlast.com/share/kino-dom/09b04204b9eefffed6509c7e8a5034db/Schernoe.zerkalo/s04e04_[720p,480,].mp4",
                             "flag": "0"
                         },
-                        "5": {
+                        {
                             "name": "5",
                             "url": "http://wx12.cdnlast.com/share/kino-dom/09b04204b9eefffed6509c7e8a5034db/Schernoe.zerkalo/s04e05_[720p,480,].mp4",
                             "flag": "0"
                         },
-                        "6": {
+                        {
                             "name": "6",
                             "url": "http://wx12.cdnlast.com/share/kino-dom/09b04204b9eefffed6509c7e8a5034db/Schernoe.zerkalo/s04e06_[720p,480,].mp4",
                             "flag": "0"
                         }
-                    }
+                    ]
                 },
                 {
                     "name": "5",
-                    "season": {
-                        "1": {
+                    "part_list": [
+                        {
                             "name": "1",
                             "url": "http://wx12.cdnlast.com/share/kino-dom/09b04204b9eefffed6509c7e8a5034db/Schernoe.zerkalo/s05e01_[720p,480,].mp4",
                             "flag": "0"
                         },
-                        "2": {
+                        {
                             "name": "2",
                             "url": "http://wx12.cdnlast.com/share/kino-dom/09b04204b9eefffed6509c7e8a5034db/Schernoe.zerkalo/s05e02_[720p,480,].mp4",
                             "flag": "0"
                         },
-                        "3": {
+                        {
                             "name": "3",
                             "url": "http://wx12.cdnlast.com/share/kino-dom/09b04204b9eefffed6509c7e8a5034db/Schernoe.zerkalo/s05e03_[720p,480,].mp4",
                             "flag": "0"
                         }
-                    }
+                    ]
                 }
             ]
         },
         {
+            "name": "LostFilm",
             "season_list": [
                 {
                     "name": "1",
-                    "season": {
-                        "1": {
+                    "part_list": [
+                        {
                             "name": "1",
                             "url": "http://vs0.cdnlast.com/share/kino-dom/09b04204b9eefffed6509c7e8a5034db/black.mirror.lostfilm-nf19/s01e01_[720p,480,].mp4",
                             "flag": "0"
                         },
-                        "2": {
+                        {
                             "name": "2",
                             "url": "http://vs0.cdnlast.com/share/kino-dom/09b04204b9eefffed6509c7e8a5034db/black.mirror.lostfilm-nf19/s01e02_[720p,480,].mp4",
                             "flag": "0"
                         },
-                        "3": {
+                        {
                             "name": "3",
                             "url": "http://vs0.cdnlast.com/share/kino-dom/09b04204b9eefffed6509c7e8a5034db/black.mirror.lostfilm-nf19/s01e03_[720p,480,].mp4",
                             "flag": "0"
                         }
-                    }
+                    ]
                 },
                 {
                     "name": "2",
-                    "season": {
-                        "1": {
+                    "part_list": [
+                        {
                             "name": "1",
                             "url": "http://vs0.cdnlast.com/share/kino-dom/09b04204b9eefffed6509c7e8a5034db/black.mirror.lostfilm-nf19/s02e01_[720p,480,].mp4",
                             "flag": "0"
                         },
-                        "2": {
+                        {
                             "name": "2",
                             "url": "http://vs0.cdnlast.com/share/kino-dom/09b04204b9eefffed6509c7e8a5034db/black.mirror.lostfilm-nf19/s02e02_[720p,480,].mp4",
                             "flag": "0"
                         },
-                        "3": {
+                        {
                             "name": "3",
                             "url": "http://vs0.cdnlast.com/share/kino-dom/09b04204b9eefffed6509c7e8a5034db/black.mirror.lostfilm-nf19/s02e03_[720p,480,].mp4",
                             "flag": "0"
                         },
-                        "4": {
+                        {
                             "name": "4",
                             "url": "http://vs0.cdnlast.com/share/kino-dom/09b04204b9eefffed6509c7e8a5034db/black.mirror.lostfilm-nf19/s02e04_[720p,480,].mp4",
                             "flag": "0"
                         }
-                    }
+                    ]
                 },
                 {
                     "name": "3",
-                    "season": {
-                        "1": {
+                    "part_list": [
+                        {
                             "name": "1",
                             "url": "http://vs0.cdnlast.com/share/kino-dom/09b04204b9eefffed6509c7e8a5034db/black.mirror.lostfilm-nf19/s03e01_[720p,480,].mp4",
                             "flag": "0"
                         },
-                        "2": {
+                        {
                             "name": "2",
                             "url": "http://vs0.cdnlast.com/share/kino-dom/09b04204b9eefffed6509c7e8a5034db/black.mirror.lostfilm-nf19/s03e02_[720p,480,].mp4",
                             "flag": "0"
                         },
-                        "3": {
+                        {
                             "name": "3",
                             "url": "http://vs0.cdnlast.com/share/kino-dom/09b04204b9eefffed6509c7e8a5034db/black.mirror.lostfilm-nf19/s03e03_[720p,480,].mp4",
                             "flag": "0"
                         },
-                        "4": {
+                        {
                             "name": "4",
                             "url": "http://vs0.cdnlast.com/share/kino-dom/09b04204b9eefffed6509c7e8a5034db/black.mirror.lostfilm-nf19/s03e04_[720p,480,].mp4",
                             "flag": "0"
                         },
-                        "5": {
+                        {
                             "name": "5",
                             "url": "http://vs0.cdnlast.com/share/kino-dom/09b04204b9eefffed6509c7e8a5034db/black.mirror.lostfilm-nf19/s03e05_[720p,480,].mp4",
                             "flag": "0"
                         },
-                        "6": {
+                        {
                             "name": "6",
                             "url": "http://vs0.cdnlast.com/share/kino-dom/09b04204b9eefffed6509c7e8a5034db/black.mirror.lostfilm-nf19/s03e06_[720p,480,].mp4",
                             "flag": "0"
                         }
-                    }
+                    ]
                 },
                 {
                     "name": "4",
-                    "season": {
-                        "1": {
+                    "part_list": [
+                        {
                             "name": "1",
                             "url": "http://vs0.cdnlast.com/share/kino-dom/09b04204b9eefffed6509c7e8a5034db/black.mirror.lostfilm-nf19/s04e01_[720p,480,].mp4",
                             "flag": "0"
                         },
-                        "2": {
+                        {
                             "name": "2",
                             "url": "http://vs0.cdnlast.com/share/kino-dom/09b04204b9eefffed6509c7e8a5034db/black.mirror.lostfilm-nf19/s04e02_[720p,480,].mp4",
                             "flag": "0"
                         },
-                        "3": {
+                        {
                             "name": "3",
                             "url": "http://vs0.cdnlast.com/share/kino-dom/09b04204b9eefffed6509c7e8a5034db/black.mirror.lostfilm-nf19/s04e03_[720p,480,].mp4",
                             "flag": "0"
                         },
-                        "4": {
+                        {
                             "name": "4",
                             "url": "http://vs0.cdnlast.com/share/kino-dom/09b04204b9eefffed6509c7e8a5034db/black.mirror.lostfilm-nf19/s04e04_[720p,480,].mp4",
                             "flag": "0"
                         },
-                        "5": {
+                        {
                             "name": "5",
                             "url": "http://vs0.cdnlast.com/share/kino-dom/09b04204b9eefffed6509c7e8a5034db/black.mirror.lostfilm-nf19/s04e05_[720p,480,].mp4",
                             "flag": "0"
                         },
-                        "6": {
+                        {
                             "name": "6",
                             "url": "http://vs0.cdnlast.com/share/kino-dom/09b04204b9eefffed6509c7e8a5034db/black.mirror.lostfilm-nf19/s04e06_[720p,480,].mp4",
                             "flag": "0"
                         }
-                    }
+                    ]
                 },
                 {
                     "name": "5",
-                    "season": {
-                        "1": {
+                    "part_list": [
+                        {
                             "name": "1",
                             "url": "http://vs0.cdnlast.com/share/kino-dom/09b04204b9eefffed6509c7e8a5034db/black.mirror.lostfilm-nf19/s05e01_[720p,480,].mp4",
                             "flag": "0"
                         },
-                        "2": {
+                        {
                             "name": "2",
                             "url": "http://vs0.cdnlast.com/share/kino-dom/09b04204b9eefffed6509c7e8a5034db/black.mirror.lostfilm-nf19/s05e02_[720p,480,].mp4",
                             "flag": "0"
                         },
-                        "3": {
+                        {
                             "name": "3",
                             "url": "http://vs0.cdnlast.com/share/kino-dom/09b04204b9eefffed6509c7e8a5034db/black.mirror.lostfilm-nf19/s05e03_[720p,480,].mp4",
                             "flag": "0"
                         }
-                    }
+                    ]
                 }
             ]
         },
         {
+            "name": "Newstudio",
             "season_list": [
                 {
                     "name": "4",
-                    "season": {
-                        "1": {
+                    "part_list": [
+                        {
                             "name": "1",
                             "url": "http://wx17.cdnlast.com/share/kino-dom/09b04204b9eefffed6509c7e8a5034db/black.mirror.newstudio-2011/s04e01_[720p,480,].mp4",
                             "flag": "0"
                         },
-                        "2": {
+                        {
                             "name": "2",
                             "url": "http://wx17.cdnlast.com/share/kino-dom/09b04204b9eefffed6509c7e8a5034db/black.mirror.newstudio-2011/s04e02_[720p,480,].mp4",
                             "flag": "0"
                         },
-                        "3": {
+                        {
                             "name": "3",
                             "url": "http://wx17.cdnlast.com/share/kino-dom/09b04204b9eefffed6509c7e8a5034db/black.mirror.newstudio-2011/s04e03_[720p,480,].mp4",
                             "flag": "0"
                         },
-                        "4": {
+                        {
                             "name": "4",
                             "url": "http://wx17.cdnlast.com/share/kino-dom/09b04204b9eefffed6509c7e8a5034db/black.mirror.newstudio-2011/s04e04_[720p,480,].mp4",
                             "flag": "0"
                         },
-                        "5": {
+                        {
                             "name": "5",
                             "url": "http://wx17.cdnlast.com/share/kino-dom/09b04204b9eefffed6509c7e8a5034db/black.mirror.newstudio-2011/s04e05_[720p,480,].mp4",
                             "flag": "0"
                         },
-                        "6": {
+                        {
                             "name": "6",
                             "url": "http://wx17.cdnlast.com/share/kino-dom/09b04204b9eefffed6509c7e8a5034db/black.mirror.newstudio-2011/s04e06_[720p,480,].mp4",
                             "flag": "0"
                         }
-                    }
+                    ]
                 },
                 {
                     "name": "5",
-                    "season": {
-                        "1": {
+                    "part_list": [
+                        {
                             "name": "1",
                             "url": "http://vs0.cdnlast.com/share/kino-dom/09b04204b9eefffed6509c7e8a5034db/black.mirror.newstudio-2011/s05e01_[720p,480,].mp4",
                             "flag": "0"
                         },
-                        "2": {
+                        {
                             "name": "2",
                             "url": "http://vs0.cdnlast.com/share/kino-dom/09b04204b9eefffed6509c7e8a5034db/black.mirror.newstudio-2011/s05e02_[720p,480,].mp4",
                             "flag": "0"
                         },
-                        "3": {
+                        {
                             "name": "3",
                             "url": "http://vs0.cdnlast.com/share/kino-dom/09b04204b9eefffed6509c7e8a5034db/black.mirror.newstudio-2011/s05e03_[720p,480,].mp4",
                             "flag": "0"
                         }
-                    }
+                    ]
                 }
             ]
         },
         {
+            "name": "Baibako",
             "season_list": [
                 {
                     "name": "5",
-                    "season": {
-                        "0": {
+                    "part_list": [
+                        {
                             "name": "0",
                             "url": "http://vs0.cdnlast.com/share/kino-dom/09b04204b9eefffed6509c7e8a5034db/black.mirror.newstudio-2011-Baibako/s05e00_[720p,480,].mp4",
                             "flag": "0"
                         },
-                        "1": {
+                        {
                             "name": "1",
                             "url": "http://vs0.cdnlast.com/share/kino-dom/09b04204b9eefffed6509c7e8a5034db/black.mirror.newstudio-2011-Baibako/s05e01_[720p,480,].mp4",
                             "flag": "0"
                         },
-                        "2": {
+                        {
                             "name": "2",
                             "url": "http://vs0.cdnlast.com/share/kino-dom/09b04204b9eefffed6509c7e8a5034db/black.mirror.newstudio-2011-Baibako/s05e02_[720p,480,].mp4",
                             "flag": "0"
                         },
-                        "3": {
+                        {
                             "name": "3",
                             "url": "http://vs0.cdnlast.com/share/kino-dom/09b04204b9eefffed6509c7e8a5034db/black.mirror.newstudio-2011-Baibako/s05e03_[720p,480,].mp4",
                             "flag": "0"
                         }
-                    }
+                    ]
                 }
             ]
         },
         {
+            "name": "Пифагор",
             "season_list": [
                 {
                     "name": "5",
-                    "season": {
-                        "1": {
+                    "part_list": [
+                        {
                             "name": "1",
                             "url": "http://wx12.cdnlast.com/share/kino-dom/09b04204b9eefffed6509c7e8a5034db/Black-Mirror-2019-Pifagor/s05e01_[720p,480,].mp4",
                             "flag": "0"
                         },
-                        "2": {
+                        {
                             "name": "2",
                             "url": "http://wx12.cdnlast.com/share/kino-dom/09b04204b9eefffed6509c7e8a5034db/Black-Mirror-2019-Pifagor/s05e02_[720p,480,].mp4",
                             "flag": "0"
                         },
-                        "3": {
+                        {
                             "name": "3",
                             "url": "http://wx12.cdnlast.com/share/kino-dom/09b04204b9eefffed6509c7e8a5034db/Black-Mirror-2019-Pifagor/s05e03_[720p,480,].mp4",
                             "flag": "0"
                         }
-                    }
+                    ]
                 }
             ]
         }

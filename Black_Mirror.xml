@@ -1,0 +1,143 @@
+<film></film>
+    <name>Black Mirror</name>
+    <img>1409084564_9eb1a777808f7cb3cc9a86dfd1884567.jpg</img>
+    <imgsrc>http://kino-dom.org/uploads/posts/2014-08/1409084564_9eb1a777808f7cb3cc9a86dfd1884567.jpg</imgsrc>
+    <players>
+        <player id="Kubik v Kube" name="Кубик в Кубе" flagnew="0">
+            <seasons>
+                <season id="1" name="Season 1" flagnew="0">
+                    <parts>
+                        <part id="1" name="Part 1" flagnew="0" prefixurl="" resolution=""/>
+                        <part id="2" name="Part 2" flagnew="0" prefixurl="" resolution=""/>
+                        <part id="3" name="Part 3" flagnew="0" prefixurl="" resolution=""/>
+                    </parts>
+                </season>
+                <season id="2" name="Season 2" flagnew="0">
+                    <parts>
+                        <part id="1" name="Part 1" flagnew="0" prefixurl="" resolution=""/>
+                        <part id="2" name="Part 2" flagnew="0" prefixurl="" resolution=""/>
+                        <part id="3" name="Part 3" flagnew="0" prefixurl="" resolution=""/>
+                    </parts>
+                </season>
+                <season id="3" name="Season 3" flagnew="0">
+                    <parts>
+                        <part id="0" name="Part 0" flagnew="0" prefixurl="" resolution=""/>
+                        <part id="1" name="Part 1" flagnew="0" prefixurl="" resolution=""/>
+                        <part id="2" name="Part 2" flagnew="0" prefixurl="" resolution=""/>
+                        <part id="3" name="Part 3" flagnew="0" prefixurl="" resolution=""/>
+                        <part id="4" name="Part 4" flagnew="0" prefixurl="" resolution=""/>
+                        <part id="5" name="Part 5" flagnew="0" prefixurl="" resolution=""/>
+                        <part id="6" name="Part 6" flagnew="0" prefixurl="" resolution=""/>
+                    </parts>
+                </season>
+                <season id="4" name="Season 4" flagnew="0">
+                    <parts>
+                        <part id="1" name="Part 1" flagnew="0" prefixurl="" resolution=""/>
+                        <part id="2" name="Part 2" flagnew="0" prefixurl="" resolution=""/>
+                        <part id="3" name="Part 3" flagnew="0" prefixurl="" resolution=""/>
+                        <part id="4" name="Part 4" flagnew="0" prefixurl="" resolution=""/>
+                        <part id="5" name="Part 5" flagnew="0" prefixurl="" resolution=""/>
+                        <part id="6" name="Part 6" flagnew="0" prefixurl="" resolution=""/>
+                    </parts>
+                </season>
+                <season id="5" name="Season 5" flagnew="0">
+                    <parts>
+                        <part id="1" name="Part 1" flagnew="0" prefixurl="" resolution=""/>
+                        <part id="2" name="Part 2" flagnew="0" prefixurl="" resolution=""/>
+                        <part id="3" name="Part 3" flagnew="0" prefixurl="" resolution=""/>
+                    </parts>
+                </season>
+            </seasons>
+        </player>
+        <player id="LostFilm" name="LostFilm" flagnew="0">
+            <seasons>
+                <season id="1" name="Season 1" flagnew="0">
+                    <parts>
+                        <part id="1" name="Part 1" flagnew="0" prefixurl="" resolution=""/>
+                        <part id="2" name="Part 2" flagnew="0" prefixurl="" resolution=""/>
+                        <part id="3" name="Part 3" flagnew="0" prefixurl="" resolution=""/>
+                    </parts>
+                </season>
+                <season id="2" name="Season 2" flagnew="0">
+                    <parts>
+                        <part id="1" name="Part 1" flagnew="0" prefixurl="" resolution=""/>
+                        <part id="2" name="Part 2" flagnew="0" prefixurl="" resolution=""/>
+                        <part id="3" name="Part 3" flagnew="0" prefixurl="" resolution=""/>
+                        <part id="4" name="Part 4" flagnew="0" prefixurl="" resolution=""/>
+                    </parts>
+                </season>
+                <season id="3" name="Season 3" flagnew="0">
+                    <parts>
+                        <part id="1" name="Part 1" flagnew="0" prefixurl="" resolution=""/>
+                        <part id="2" name="Part 2" flagnew="0" prefixurl="" resolution=""/>
+                        <part id="3" name="Part 3" flagnew="0" prefixurl="" resolution=""/>
+                        <part id="4" name="Part 4" flagnew="0" prefixurl="" resolution=""/>
+                        <part id="5" name="Part 5" flagnew="0" prefixurl="" resolution=""/>
+                        <part id="6" name="Part 6" flagnew="0" prefixurl="" resolution=""/>
+                    </parts>
+                </season>
+                <season id="4" name="Season 4" flagnew="0">
+                    <parts>
+                        <part id="1" name="Part 1" flagnew="0" prefixurl="" resolution=""/>
+                        <part id="2" name="Part 2" flagnew="0" prefixurl="" resolution=""/>
+                        <part id="3" name="Part 3" flagnew="0" prefixurl="" resolution=""/>
+                        <part id="4" name="Part 4" flagnew="0" prefixurl="" resolution=""/>
+                        <part id="5" name="Part 5" flagnew="0" prefixurl="" resolution=""/>
+                        <part id="6" name="Part 6" flagnew="0" prefixurl="" resolution=""/>
+                    </parts>
+                </season>
+                <season id="5" name="Season 5" flagnew="0">
+                    <parts>
+                        <part id="1" name="Part 1" flagnew="0" prefixurl="" resolution=""/>
+                        <part id="2" name="Part 2" flagnew="0" prefixurl="" resolution=""/>
+                        <part id="3" name="Part 3" flagnew="0" prefixurl="" resolution=""/>
+                    </parts>
+                </season>
+            </seasons>
+        </player>
+        <player id="Newstudio" name="Newstudio" flagnew="0">
+            <seasons>
+                <season id="4" name="Season 4" flagnew="0">
+                    <parts>
+                        <part id="1" name="Part 1" flagnew="0" prefixurl="" resolution=""/>
+                        <part id="2" name="Part 2" flagnew="0" prefixurl="" resolution=""/>
+                        <part id="3" name="Part 3" flagnew="0" prefixurl="" resolution=""/>
+                        <part id="4" name="Part 4" flagnew="0" prefixurl="" resolution=""/>
+                        <part id="5" name="Part 5" flagnew="0" prefixurl="" resolution=""/>
+                        <part id="6" name="Part 6" flagnew="0" prefixurl="" resolution=""/>
+                    </parts>
+                </season>
+                <season id="5" name="Season 5" flagnew="0">
+                    <parts>
+                        <part id="1" name="Part 1" flagnew="0" prefixurl="" resolution=""/>
+                        <part id="2" name="Part 2" flagnew="0" prefixurl="" resolution=""/>
+                        <part id="3" name="Part 3" flagnew="0" prefixurl="" resolution=""/>
+                    </parts>
+                </season>
+            </seasons>
+        </player>
+        <player id="Baibako" name="Baibako" flagnew="0">
+            <seasons>
+                <season id="5" name="Season 5" flagnew="0">
+                    <parts>
+                        <part id="0" name="Part 0" flagnew="0" prefixurl="" resolution=""/>
+                        <part id="1" name="Part 1" flagnew="0" prefixurl="" resolution=""/>
+                        <part id="2" name="Part 2" flagnew="0" prefixurl="" resolution=""/>
+                        <part id="3" name="Part 3" flagnew="0" prefixurl="" resolution=""/>
+                    </parts>
+                </season>
+            </seasons>
+        </player>
+        <player id="Pifagor" name="Пифагор" flagnew="0">
+            <seasons>
+                <season id="5" name="Season 5" flagnew="0">
+                    <parts>
+                        <part id="1" name="Part 1" flagnew="0" prefixurl="" resolution=""/>
+                        <part id="2" name="Part 2" flagnew="0" prefixurl="" resolution=""/>
+                        <part id="3" name="Part 3" flagnew="0" prefixurl="" resolution=""/>
+                    </parts>
+                </season>
+            </seasons>
+        </player>
+    </players>
+</film>
